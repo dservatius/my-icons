@@ -1,0 +1,146 @@
+[
+  {
+    "index": 1,
+    "title": "Plex",
+    "content": "https://app.plex.tv/desktop/#!/",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/plex.png"
+  },
+  {
+    "index": 2,
+    "title": "Synology",
+    "content": "https://192.168.0.23:5001/",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/synology.png"
+  },
+  {
+    "index": 3,
+    "title": "Email",
+    "content": "https://mail.yahoo.com/n/inbox/all?listFilter=PRIORITY&accountIds=1",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/email.png"
+  },
+  {
+    "index": 4,
+    "title": "Library",
+    "content": "https://more.bibliocommons.com/user_dashboard",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/library.png"
+  },
+  {
+    "index": 5,
+    "title": "Fatsecret",
+    "content": "https://foods.fatsecret.com/Diary.aspx?pa=fj",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/fatsecret.png"
+  },
+  {
+    "index": 6,
+    "title": "Messages",
+    "content": "https://messages.google.com/web/conversations",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/messages.png"
+  },
+  {
+    "index": 7,
+    "title": "FB Home",
+    "content": "https://www.facebook.com/dservatius/",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/facebook.png"
+  },
+  {
+    "index": 8,
+    "title": "FB Watch",
+    "content": "https://www.facebook.com/watch/",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/facebook.png"
+  },
+  {
+    "index": 9,
+    "title": "Walmart",
+    "content": "https://www.walmart.com/",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/walmart.png"
+  },
+  {
+    "index": 10,
+    "title": "YouTube",
+    "content": "https://www.youtube.com/",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/youtube.com"
+  },
+  {
+    "index": 11,
+    "title": "GPX Studio",
+    "content": "https://gpx.studio/app",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/gpx-studio.png"
+  },
+  {
+    "index": 12,
+    "title": "MapMyRide",
+    "content": "https://www.mapmyride.com/routes/my_routes",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/mapmyride.png"
+  },
+  {
+    "index": 13,
+    "title": "Gemini AI",
+    "content": "https://gemini.google.com/",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/gemini-ai.png"
+  },
+  {
+    "index": 14,
+    "title": "Firebase",
+    "content": "https://console.firebase.google.com/",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/firebase.png"
+  },
+  {
+    "index": 15,
+    "title": "Meta AI",
+    "content": "https://www.meta.ai/",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/meta-ai.png"
+  },
+  {
+    "index": 16,
+    "title": "Chat GPT",
+    "content": "https://chatgpt.com/",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/chatgpt.png"
+  },
+  {
+    "index": 17,
+    "title": "8 Ball",
+    "content": "https://www.crazygames.com/game/8-ball-billiards-classic",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/8-ball.png"
+  },
+  {
+    "index": 18,
+    "title": "Jigsaw",
+    "content": "https://www.jigsawexplorer.com/",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/jigsaw.png"
+  },
+  {
+    "index": 19,
+    "title": "Battleships",
+    "content": "https://archive.org/details/1100_battle_ships_general_quarters#",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/battleships.png"
+  },
+  {
+    "index": 20,
+    "title": "Humor",
+    "content": "https://www.rd.com/list/funniest-one-liners-you-havent-heard-yet/",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/humor.png"
+  },
+  {
+    "index": 21,
+    "title": "Emojis",
+    "content": "https://emojicopy.com/#google_vignette",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/emojis.png"
+  },
+  {
+    "index": 22,
+    "title": "Paypal",
+    "content": "https://www.paypal.com/myaccount/transfer/homepage/send/preview",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/paypal.png"
+  },
+  {
+    "index": 23,
+    "title": "Patreon",
+    "content": "https://www.patreon.com/home",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/patreon.png"
+  },
+  {
+    "index": 24,
+    "title": "Discord",
+    "content": "https://discord.com/channels/@me/",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/discord.png"
+  }
+]
