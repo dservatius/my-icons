@@ -142,5 +142,12 @@
     "title": "Discord",
     "content": "https://discord.com/channels/@me/",
     "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/discord.png"
+  },
+  {
+    "index": 25,
+    "title": "Github",
+    "content": "https://github.com",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/github.png"
   }
+]
 ]
