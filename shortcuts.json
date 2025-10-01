@@ -148,5 +148,11 @@
     "title": "Github",
     "content": "https://github.com",
     "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/github.png"
+  },
+  {
+    "index": 26,
+    "title": "Txt 2 Img",
+    "content": "https://talotics.com/apps/textimagertool/text-imager-tool/",
+    "icon": "https://raw.githubusercontent.com/dservatius/my-icons/refs/heads/main/texttoimage.png"
   }
 ]
